@@ -1,0 +1,73 @@
+DESCRIBE & CONQUER - EDUCATIONAL GAME LICENSE
+==============================================
+Version 1.2
+
+Copyright © 2026 YouTeacher.org / Swagmat Ltd.
+All rights reserved.
+
+Created by: Pete Wilcox and the YouTeacher team
+Contact: pete@youteacher.org
+Website: https://youteacher.org
+Discord: https://discord.gg/sHcsD8WsgC
+
+GRANT OF LICENSE
+----------------
+YouTeacher.org grants you a non-exclusive, non-transferable license to use 
+"Describe & Conquer" (the "Game") for educational purposes only, subject to 
+the following terms and conditions:
+
+PERMITTED USE
+-------------
+✅ You MAY (and we encourage you to!):
+• Share this game ANYWHERE - Reddit, Facebook, WhatsApp, WeChat, everywhere!
+• Upload to teacher resource websites
+• Email to colleagues and friends
+• Post on social media
+• Include in school resource libraries
+• Use in educational settings (classrooms, tutoring, workshops)
+• Modify for your specific teaching needs
+• Translate to other languages
+• Create derivative works for educational use
+
+RESTRICTIONS
+------------
+❌ You MAY NOT:
+• Sell the Game or charge any fees for access
+• Remove YouTeacher branding or Discord links (they help teachers find our community!)
+• Use for commercial purposes (making money from it)
+• Claim you created it (but please DO say "check out this cool free resource!")
+
+ATTRIBUTION
+-----------
+When sharing or distributing the Game, you must:
+• Maintain all copyright notices and branding
+• Include a link to https://youteacher.org when reasonably possible
+• Credit YouTeacher.org as the creator
+
+NO WARRANTY
+-----------
+The Game is provided "as is" without warranty of any kind, express or implied.
+YouTeacher.org shall not be liable for any damages arising from the use of the Game.
+
+TERMINATION
+-----------
+This license automatically terminates if you violate any of these terms.
+Upon termination, you must cease all use and distribution of the Game.
+
+GOVERNING LAW
+-------------
+This license shall be governed by the laws of Hong Kong.
+
+COMMUNITY PLEDGE
+----------------
+This Game was created by teachers, for teachers. We believe in the power of
+educators supporting each other. By using this Game, you join our mission to
+improve ESL education across Asia through community and collaboration.
+
+Join our Discord community to connect with other teachers, share resources,
+and help shape the future of ESL education: https://discord.gg/sHcsD8WsgC
+
+Find us in the #teacher-resources channel!
+
+---
+For commercial licensing inquiries, please contact: pete@youteacher.org
