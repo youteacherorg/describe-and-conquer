@@ -1,4 +1,4 @@
-# Describe & Conquer v1.2 - Educational Vocabulary Game
+# Describe & Conquer v1.3 - Educational Vocabulary Game
 **Created by YouTeacher.org**
 
 An offline educational game designed for ESL teachers to help students practice vocabulary and sentence construction. This game is part of the YouTeacher community resources for teachers in Asia.
@@ -117,7 +117,7 @@ This educational game is provided free of charge to the teaching community by Yo
 
 While the game is free to use for educational purposes, the code and design remain the intellectual property of YouTeacher.org / Swagmat Ltd. Commercial use, resale, or removal of attribution is prohibited without written permission.
 
-**Version:** 1.2  
+**Version:** 1.3  
 **Released:** January 2026  
 **Discord:** https://discord.gg/sHcsD8WsgC
 
