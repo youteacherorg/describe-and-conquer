@@ -119,7 +119,7 @@ While the game is free to use for educational purposes, the code and design rema
 
 **Version:** 1.3  
 **Released:** January 2026  
-**Discord:** https://discord.gg/sHcsD8WsgC
+**Discord:** https://youteacher.org/discord
 
 ---
 
